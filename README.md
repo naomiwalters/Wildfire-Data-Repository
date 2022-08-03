@@ -52,7 +52,7 @@
 4. Data Access: http
 5. Update: 5 minutes
 
-### CWFIS fround reports
+### CWFIS Ground Reports
 1. Category: fire detection and tracking
    * ground based
 2. Website
@@ -97,7 +97,7 @@
    * powerlines
 2. Website
    * curator: Homeland Infrastructure Foundation-Level Data (HIFLD)
-   * [Electric Power Lines Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::electric-power-transmission-lines-about)
+   * [Electric Power Lines Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::electric-power-transmission-lines/about)
 3. Data Type: CSV (raw) or KML (display) or Shapefile (display)
 4. Data Access: http
 5. Update: unknown - last updated April 4, 2022
@@ -109,4 +109,4 @@
    * [Fire Department Data](https://hifld-geoplatform.opendata.arcgis.com/datasets/geoplatform::fire-stations/about)
 3. Data Type: CSV (raw) KML and Shapefile (display)
 4. Data Access: http
-5. Update: uknown
+5. Update: uknown - last updated December 2021
